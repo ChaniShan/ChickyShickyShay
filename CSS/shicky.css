@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #895129/*997950*/;
+	background-image: url("./tree bark.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.poster {
+    width: 400px;
+    padding: 10px;
+    /*border: 5px solid #AF804F;*/
+	background-size: cover;
+	background-image: url("./aged poster.jpg");
+    background-position: center;
+    color: #000/*410200*/;
+    text-align: center;
+}
+.pin{
+	margin-bottom: 0px;
+}
+.title {
+    font-size: 48px;
+    font-weight: bold;
+	font-family: "lucida handwriting", cursive;
+    margin-bottom: 5px;
+	margin-top:2px;
+	color: #000;
+}
+.big-star{
+	font-size: 30px;
+	text-align: middle;
+}
+
+.photo {
+    width: 50%;
+    height: auto;
+    margin: 20px 0;
+	margin-bottom: 10px;
+	border: 5px solid #000 /*65350F*/;
+}
+.info{
+	margin-top: 10px;
+	font-family:"lucida handwriting", cursive;
+	font-size: 25px;
+	color: #000/*410200*/;
+}
+.crimes{
+	font-family:"papyrus", fantasy;
+	color: #000;
+}
+.reward {
+    font-size: 24px;
+    font-weight: bold;
+	font-family: "lucida handwriting", cursive;
+    color: #000/*410200*/;
+    margin: 10px 0;
+}
+
